@@ -1,1 +1,3 @@
-*.HTML linguistic-language=Python
+*.python linguistic-detectable=true
+*.html linguistic-detectable=false
+*.css linguistic-detectable=false
